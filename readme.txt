@@ -1,7 +1,7 @@
 === InvoiceBoo ===
 Contributors: streamlinestar, nauriskolats
 Donate link: https://www.invoiceboo.com/
-Tags: invoice, woocommerce
+Tags: invoice, invoices, woocommerce, pdf, download
 Requires at least: 4.0
 Tested up to: 6.0
 Requires PHP: 7.0
@@ -9,7 +9,7 @@ Stable tag: 1.0
 License: GPL-2.0+
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-A simple solution for offering an easy, quick, and user-friendly way of providing WooCommerce customers with Invoices.
+Easy, quick, and user-friendly way of providing WooCommerce customers with Invoices.
 
 == Description ==
 

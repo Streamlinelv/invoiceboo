@@ -471,7 +471,7 @@ class InvoiceBoo_Admin {
 							<h1><?php echo esc_html( INVOICEBOO_NAME ); ?></h1>
 						</div>
 						<div class="invoiceboo-col-md-6">
-							<div class="invoiceboo-page-description"><?php esc_html_e( 'A simple solution for offering an easy, quick, and user-friendly way of providing WooCommerce customers with Invoices.', 'invoiceboo-invoices-for-woocommerce' ); ?></div>
+							<div class="invoiceboo-page-description"><?php esc_html_e( 'Easy, quick, and user-friendly way of providing WooCommerce customers with Invoices.', 'invoiceboo-invoices-for-woocommerce' ); ?></div>
 						</div>
 						<div class="invoiceboo-hidden-xs invoiceboo-col-md-6 invoiceboo-right">
 							<?php $this->add_buttons(); ?>

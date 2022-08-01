@@ -152,13 +152,13 @@ class InvoiceBoo_Public {
 	 */
 	function is_invoiceboo_endpoint() {
 
-		global $wp_query;
+		global $wp;
 		$result = false;
 
-		if( $wp_query ){
+		if( $wp ){
 
-			if( isset( $wp_query->query_vars['pagename'] ) || isset( $wp_query->query_vars['name'] ) ){
-				$result = isset( $wp_query->query_vars['invoice-id'] ) && ( $wp_query->query_vars['pagename'] == INVOICEBOO_SLUG || $wp_query->query_vars['name'] == INVOICEBOO_SLUG );
+			if( isset( $wp->request ) ){
+				$result = isset( $wp->query_vars['invoice-id'] ) && ( $wp->request == INVOICEBOO_SLUG );
 			}
 		}
 

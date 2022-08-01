@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: InvoiceBoo - Simple invoices for WooCommerce\n"
-"POT-Creation-Date: 2022-07-19 23:08+0300\n"
+"POT-Creation-Date: 2022-07-31 23:43+0300\n"
 "PO-Revision-Date: 2022-06-17 13:24+0300\n"
 "Last-Translator: Nauris Kolats <nauris@streamline.lv>\n"
 "Language-Team: Nauris Kolats <nauris@streamline.lv>\n"
@@ -39,8 +39,8 @@ msgstr ""
 
 #: admin/class-invoiceboo-admin.php:474
 msgid ""
-"A simple solution for offering an easy, quick, and user-friendly way of "
-"providing WooCommerce customers with Invoices."
+"Easy, quick, and user-friendly way of providing WooCommerce customers with "
+"Invoices."
 msgstr ""
 
 #: admin/class-invoiceboo-admin.php:485
@@ -113,65 +113,56 @@ msgstr ""
 msgid "Sunrise"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:635
-msgid "Sunset"
-msgstr ""
-
-#: admin/class-invoiceboo-admin.php:636
-msgid "Midnight"
-msgstr ""
-
-#: admin/class-invoiceboo-admin.php:972
+#: admin/class-invoiceboo-admin.php:964
 msgid "Product"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:977
+#: admin/class-invoiceboo-admin.php:969
 msgid "Price"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:982
+#: admin/class-invoiceboo-admin.php:974
 msgid "Quantity"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:987
+#: admin/class-invoiceboo-admin.php:979
 msgid "Amount"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:1097
+#: admin/class-invoiceboo-admin.php:1089
 msgid "Subtotal:"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:1101
+#: admin/class-invoiceboo-admin.php:1093
 msgid "Tax:"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:1105
+#: admin/class-invoiceboo-admin.php:1097
 msgid "Payment method:"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:1109
+#: admin/class-invoiceboo-admin.php:1101
 msgid "Total:"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:1157
+#: admin/class-invoiceboo-admin.php:1149
 msgid "Note:"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:1239
+#: admin/class-invoiceboo-admin.php:1231
 msgid "Sync failed. Looks like you are not allowed to do this."
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:1242
+#: admin/class-invoiceboo-admin.php:1234
 msgid "Sync finished"
 msgstr ""
 
-#: admin/class-invoiceboo-admin.php:1333
+#: admin/class-invoiceboo-admin.php:1325
 msgid "Please enable WooCommerce to use InvoiceBoo."
 msgstr ""
 
 #: includes/class-invoiceboo-pdf.php:64 public/class-invoiceboo-public.php:253
-#: public/class-invoiceboo-public.php:335 templates/invoiceboo-sunrise.php:47
-#: templates/invoiceboo-sunset.php:27
+#: public/class-invoiceboo-public.php:338 templates/invoiceboo-sunrise.php:47
 msgid "Invoice"
 msgstr ""
 
@@ -195,10 +186,8 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-#: public/class-invoiceboo-public.php:285 templates/invoiceboo-midnight.php:44
-#: templates/invoiceboo-midnight.php:47 templates/invoiceboo-sunrise.php:37
-#: templates/invoiceboo-sunrise.php:40 templates/invoiceboo-sunset.php:60
-#: templates/invoiceboo-sunset.php:65
+#: public/class-invoiceboo-public.php:285 templates/invoiceboo-sunrise.php:37
+#: templates/invoiceboo-sunrise.php:40
 msgid "Billed to"
 msgstr ""
 
@@ -206,42 +195,39 @@ msgstr ""
 msgid "Please enter your business details and save your changes."
 msgstr ""
 
-#: public/class-invoiceboo-public.php:359
-#: public/class-invoiceboo-public.php:394
+#: public/class-invoiceboo-public.php:366
+#: public/class-invoiceboo-public.php:403
 msgid "Download Invoice"
 msgstr ""
 
 #. translators: %s - URL link
-#: public/class-invoiceboo-public.php:397
+#: public/class-invoiceboo-public.php:406
 #, php-format
 msgid "Please add your business details and %sDownload Invoice%s here."
 msgstr ""
 
-#: public/class-invoiceboo-public.php:401
+#: public/class-invoiceboo-public.php:410
 msgid "DOWNLOAD INVOICE"
 msgstr ""
 
-#: public/class-invoiceboo-public.php:402
+#: public/class-invoiceboo-public.php:411
 msgid "Please add your business details and Download Invoice here: "
-msgstr ""
-
-#: templates/invoiceboo-midnight.php:38 templates/invoiceboo-sunrise.php:32
-#: templates/invoiceboo-sunset.php:52
-msgid "Billed from"
-msgstr ""
-
-#: templates/invoiceboo-midnight.php:55 templates/invoiceboo-sunrise.php:51
-#: templates/invoiceboo-sunset.php:31
-msgid "Invoice Nr."
-msgstr ""
-
-#: templates/invoiceboo-midnight.php:59 templates/invoiceboo-sunrise.php:55
-#: templates/invoiceboo-sunset.php:35
-msgid "Date"
 msgstr ""
 
 #: templates/invoiceboo-page.php:33
 msgid "Order"
+msgstr ""
+
+#: templates/invoiceboo-sunrise.php:32
+msgid "Billed from"
+msgstr ""
+
+#: templates/invoiceboo-sunrise.php:51
+msgid "Invoice Nr."
+msgstr ""
+
+#: templates/invoiceboo-sunrise.php:55
+msgid "Date"
 msgstr ""
 
 #. Plugin Name of the plugin/theme
