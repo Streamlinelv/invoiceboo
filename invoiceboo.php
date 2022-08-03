@@ -6,7 +6,7 @@
  * @author     		  InvoiceBoo <hello@invoiceboo.com>
  *
  * @wordpress-plugin
- * Plugin Name:       InvoiceBoo - Simple Invoices for WooCommerce
+ * Plugin Name:       InvoiceBoo - Invoices for WooCommerce
  * Description:       A simple solution for offering an easy, quick, and user-friendly way of providing WooCommerce customers with Invoices
  * Version:           1.0
  * Author:            Streamline.lv

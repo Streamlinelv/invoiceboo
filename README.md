@@ -1,17 +1,10 @@
-=== InvoiceBoo - Invoices for WooCommerce ===
-Contributors: streamlinestar, nauriskolats
-Donate link: https://www.invoiceboo.com/
-Tags: invoice, woocommerce invoices, woocommerce, pdf, download
-Requires at least: 4.0
-Tested up to: 6.0
-Requires PHP: 7.0
-Stable tag: 1.0
-License: GPL-2.0+
-License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+[![InvoiceBoo - Invoices for WooCommerce](https://ps.w.org/invoiceboo-invoices-for-woocommerce/assets/banner-1544x500.png "Invoices for WooCommerce")](https://www.invoiceboo.com)
+
+# InvoiceBoo - Invoices for WooCommerce
 
 Easy, quick, and user-friendly way of providing WooCommerce customers with Invoices.
 
-== Description ==
+### Description
 
 InvoiceBoo is a small and simple plugin which allows an easy way of generating Invoices for all WooCommerce customers who can purchase goods and services and provide their business details like company name, VAT number, address etc. later to download or print their Invoices.
 
@@ -19,20 +12,20 @@ WooCommerce customers can access and view their Invoices from customer account p
 
 You can tailor the visual design of your Invoices to match your brand identity, add company logo, change colors and preview them before making them live.
 
-== Installation ==
+### Installation
 
 1. Navigate to your **WordPress dashboard > Plugins > Add new**
 1. Search for "InvoiceBoo"
 1. Install and activate InvoiceBoo
 1. Navigate to **WooCommerce > InvoiceBoo** and enable Invoices
 
-== Frequently Asked Questions ==
+## Frequently Asked Questions
 
-= Missing a feature or have a new idea? =
+### Missing a feature or have a new idea?
 
 If you find that there is a feature that you would like to have or have an idea for improvement, please let us know and [contact us](https://www.invoiceboo.com/).
 
-= How to customize PDF Invoice templates? =
+### How to customize PDF Invoice templates?
 
 InvoiceBoo offers a couple of PDF Invoice templates which provide the necessary layout and content customization options.
 
@@ -43,7 +36,7 @@ Template files are located inside **/plugins/invoiceboo/templates** folder. Plea
 
 Please be aware that if a new InvoiceBoo version is released with an updated template file, you may have to replace the old template file with the new one to maintain compatibility.
 
-= Anything for developers? =
+### Anything for developers?
 
 InvoiceBoo includes various filters for additional plugin and Invoice customization.
 
@@ -65,16 +58,11 @@ Filters
 * invoiceboo_page_title
 * invoiceboo_authorization_required
 
-== Screenshots ==
+## Screenshots
 
-1. InvoiceBoo settings
-2. Customer Invoice update and download page
-3. Add Business details to Invoice after placing the order
-4. Downloaded PDF Invoice example
-5. WooCommerce My Account > Orders page with Invoice buttons
-6. WooCommerce Thank you page with Download Invoice button
-
-== Changelog ==
-
-= 1.0 =
-* Birthday
+![InvoiceBoo settings](https://ps.w.org/invoiceboo-invoices-for-woocommerce/assets/screenshot-1.jpg "InvoiceBoo settings")
+![Customer Invoice update and download page](https://ps.w.org/invoiceboo-invoices-for-woocommerce/assets/screenshot-2.jpg "Customer Invoice update and download page")
+![Add Business details to Invoice after placing the order](https://ps.w.org/invoiceboo-invoices-for-woocommerce/assets/screenshot-3.jpg "Add Business details to Invoice after placing the order")
+![Downloaded PDF Invoice example](https://ps.w.org/invoiceboo-invoices-for-woocommerce/assets/screenshot-4.jpg "Downloaded PDF Invoice example")
+![WooCommerce My Account > Orders page with Invoice buttons](https://ps.w.org/invoiceboo-invoices-for-woocommerce/assets/screenshot-5.jpg "WooCommerce My Account > Orders page with Invoice buttons")
+![WooCommerce Thank you page with Download Invoice button](https://ps.w.org/invoiceboo-invoices-for-woocommerce/assets/screenshot-6.jpg "WooCommerce Thank you page with Download Invoice button")
